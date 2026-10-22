@@ -15,4 +15,4 @@ I'm luca. I have been coding since (Very) late 2024, and currently am learning
 - Tools & Technologies:
 - * Git, Drizzle ORM, LLVM (C++ API), GitHub, GitHub Actions, Docker, PostgreSQL, SQLite, AWS, RabbitMQ, Godot
 
-I have created the programing language QuantumC and the website learnhardcode.dpdns.org
+I have created the programing language QuarticC and the website learnhardcode.dpdns.org
