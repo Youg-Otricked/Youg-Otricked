@@ -7,9 +7,9 @@ I'm luca. I have been coding since (Very) late 2024, and currently am learning
 - * Scripting:
 - * - Javascript, Python
 - * Data:
-- * - Elixir, SQL
+- * - SQL
 - * Legacy:
-- * - Fortran, Cobol, OCaml, Haskell
+- * - Haskell
 - * Web:
 - * - HTML, CSS, WASM
 - Tools & Technologies:
