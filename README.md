@@ -1,4 +1,4 @@
-I'm luca. I have been coding since (Very) late 2024, and currently am learning 
+I'm luca. I have been coding since mid-late 2025, and currently am learning 
 - Languages:
 - * Systems:
 - * - C++, C, Rust, x86_64 Assembly, Zig
